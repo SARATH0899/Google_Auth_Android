@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39838668631",
+    "project_id": "form--authentication",
+    "storage_bucket": "form--authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39838668631:android:b3c0ce6d6359ba3442d012",
+        "android_client_info": {
+          "package_name": "com.example.form_google_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3knhv4F0Zrv7cXJrQ5Xcok7HMlmo5SyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
